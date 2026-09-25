@@ -54,13 +54,13 @@
       "id": 1,
       "name": "Angkor Wat, Cambodia",
       "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=500",
-      "description": "A massive temple complex in Cambodia, originally constructed as a Hindu temple."
+      "description": "A magnificent ancient temple complex in Cambodia and the largest religious monument in the world."
     },
     {
       "id": 2,
       "name": "Taj Mahal, India",
       "imageUrl": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=500",
-      "description": "An iconic ivory-white marble mausoleum on the right bank of the river Yamuna."
+      "description": "An iconic ivory-white marble mausoleum on the south bank of the Yamuna River in Agra, India."
     }
   ],
   "beaches": [
