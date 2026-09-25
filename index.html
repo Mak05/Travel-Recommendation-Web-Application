@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Travel Recommendation App</title>
+  <link rel="stylesheet" href="travel_recommendation.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="logo">TravelBloom</div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About Us</a></li>
+      <li><a href="contact.html">Contact Us</a></li>
+    </ul>
+    <div class="search-container">
+      <input type="text" id="searchInput" placeholder="Enter a destination or keyword (e.g. beach, temple, country)...">
+      <button id="btnSearch">Search</button>
+      <button id="btnClear">Clear</button>
+    </div>
+  </nav>
+
+  <main class="home-container">
+    <div class="hero-content">
+      <h1>EXPLORE<br>DREAM<br>DESTINATION</h1>
+      <p>Discover breathtaking places around the world. Get recommendations tailored to your interests, whether you're seeking tropical beaches, historic temples, or incredible countries to visit.</p>
+      <button class="btn-book">Book Now</button>
+    </div>
+
+    <div id="resultsContainer" class="results-container"></div>
+  </main>
+
+  <script src="travel_recommendation.js"></script>
+</body>
+</html>
